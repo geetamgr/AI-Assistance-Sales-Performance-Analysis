@@ -1,0 +1,101 @@
+category,region,channel,total_orders,returned_orders,return_rate_pct
+Office Supplies,Central,Wholesale,11,2,18.18
+Beauty,North,Wholesale,18,3,16.67
+Electronics,Central,Wholesale,38,6,15.79
+Beauty,Central,Wholesale,14,2,14.29
+Apparel,East,Wholesale,35,4,11.43
+Office Supplies,North,Marketplace,58,6,10.34
+Home & Kitchen,Central,In-Store,80,8,10.0
+Home & Kitchen,East,Wholesale,41,4,9.76
+Office Supplies,Central,In-Store,54,5,9.26
+Office Supplies,Central,Online,76,7,9.21
+Office Supplies,East,In-Store,87,8,9.2
+Home & Kitchen,South,Wholesale,33,3,9.09
+Electronics,West,In-Store,123,11,8.94
+Apparel,North,Wholesale,48,4,8.33
+Beauty,East,Marketplace,60,5,8.33
+Beauty,South,Wholesale,24,2,8.33
+Beauty,North,In-Store,61,5,8.2
+Beauty,West,Marketplace,37,3,8.11
+Beauty,North,Online,113,9,7.96
+Electronics,North,Marketplace,113,9,7.96
+Office Supplies,East,Wholesale,26,2,7.69
+Home & Kitchen,North,Online,158,12,7.59
+Electronics,South,In-Store,119,9,7.56
+Home & Kitchen,South,In-Store,106,8,7.55
+Beauty,East,Online,108,8,7.41
+Office Supplies,East,Online,108,8,7.41
+Home & Kitchen,Central,Online,95,7,7.37
+Electronics,Central,In-Store,110,8,7.27
+Apparel,North,Marketplace,69,5,7.25
+Electronics,Central,Online,154,11,7.14
+Home & Kitchen,Central,Marketplace,56,4,7.14
+Electronics,East,Wholesale,57,4,7.02
+Electronics,West,Marketplace,114,8,7.02
+Office Supplies,West,Online,89,6,6.74
+Apparel,East,Online,166,11,6.63
+Apparel,South,Online,137,9,6.57
+Office Supplies,South,Marketplace,61,4,6.56
+Office Supplies,East,Marketplace,62,4,6.45
+Home & Kitchen,West,Wholesale,48,3,6.25
+Apparel,East,In-Store,114,7,6.14
+Beauty,North,Marketplace,50,3,6.0
+Electronics,North,Online,200,12,6.0
+Office Supplies,Central,Marketplace,34,2,5.88
+Electronics,Central,Marketplace,87,5,5.75
+Apparel,West,Wholesale,35,2,5.71
+Beauty,Central,Online,70,4,5.71
+Apparel,West,In-Store,88,5,5.68
+Apparel,Central,Online,108,6,5.56
+Apparel,South,Marketplace,72,4,5.56
+Electronics,South,Wholesale,36,2,5.56
+Office Supplies,West,Wholesale,18,1,5.56
+Home & Kitchen,West,In-Store,112,6,5.36
+Home & Kitchen,East,Marketplace,75,4,5.33
+Apparel,West,Online,133,7,5.26
+Electronics,East,Marketplace,95,5,5.26
+Home & Kitchen,North,In-Store,96,5,5.21
+Apparel,South,In-Store,99,5,5.05
+Beauty,West,Online,99,5,5.05
+Beauty,West,Wholesale,20,1,5.0
+Electronics,South,Marketplace,82,4,4.88
+Electronics,East,In-Store,147,7,4.76
+Electronics,West,Wholesale,42,2,4.76
+Beauty,South,Marketplace,44,2,4.55
+Office Supplies,North,Wholesale,22,1,4.55
+Electronics,East,Online,202,9,4.46
+Apparel,North,Online,135,6,4.44
+Electronics,South,Online,180,8,4.44
+Electronics,West,Online,169,7,4.14
+Home & Kitchen,East,Online,170,7,4.12
+Apparel,East,Marketplace,74,3,4.05
+Apparel,South,Wholesale,25,1,4.0
+Office Supplies,South,In-Store,76,3,3.95
+Home & Kitchen,East,In-Store,131,5,3.82
+Home & Kitchen,South,Online,160,6,3.75
+Office Supplies,North,Online,107,4,3.74
+Home & Kitchen,North,Marketplace,55,2,3.64
+Office Supplies,South,Online,113,4,3.54
+Home & Kitchen,Central,Wholesale,29,1,3.45
+Beauty,East,Wholesale,30,1,3.33
+Apparel,Central,In-Store,63,2,3.17
+Beauty,West,In-Store,64,2,3.13
+Electronics,North,In-Store,128,4,3.13
+Apparel,North,In-Store,97,3,3.09
+Beauty,South,Online,98,3,3.06
+Home & Kitchen,West,Marketplace,66,2,3.03
+Home & Kitchen,West,Online,145,4,2.76
+Beauty,Central,Marketplace,38,1,2.63
+Home & Kitchen,North,Wholesale,38,1,2.63
+Office Supplies,North,In-Store,76,2,2.63
+Beauty,Central,In-Store,44,1,2.27
+Apparel,Central,Marketplace,45,1,2.22
+Office Supplies,West,In-Store,67,1,1.49
+Apparel,West,Marketplace,68,1,1.47
+Beauty,East,In-Store,74,1,1.35
+Home & Kitchen,South,Marketplace,74,1,1.35
+Beauty,South,In-Store,80,1,1.25
+Apparel,Central,Wholesale,26,0,0.0
+Electronics,North,Wholesale,43,0,0.0
+Office Supplies,South,Wholesale,23,0,0.0
+Office Supplies,West,Marketplace,42,0,0.0
